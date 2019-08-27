@@ -1,0 +1,26 @@
+{
+  "name": "koa-history-api",
+  "version": "1.0.0",
+  "description": "Koa simplified version of connect-history-api-fallback",
+  "keyswords": [
+    "connect",
+    "html5",
+    "history api"
+  ],
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/xiaodaobiepao/koa-history-api.git"
+  },
+  "author": {
+    "name": "xiaodaobiepao",
+    "email": "xiaodaobiepao@foxmail.com"
+  },
+  "license": "MIT"
+}
