@@ -1,6 +1,6 @@
 {
   "name": "koa-history-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Koa simplified version of connect-history-api-fallback",
   "keywords": [
     "connect",
