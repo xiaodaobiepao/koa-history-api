@@ -16,7 +16,7 @@ $ npm install --save 'koa-history-api'
 
 ```javascript
 const Koa = require('koa');
-const history = require('koa-history-api-fallback');
+const history = require('koa-history-api');
 
 const app = new Koa();
 
@@ -31,7 +31,7 @@ app.use(...);
 ```javascript
 const Koa = require('koa');
 
-const history = require('koa-history-api-fallback');
+const history = require('koa-history-api');
 
 // create app
 const app = new Koa();
