@@ -12,7 +12,7 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,11 @@
     "name": "xiaodaobiepao",
     "email": "xiaodaobiepao@foxmail.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "sinon": "^7.4.1"
+  }
 }
